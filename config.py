@@ -2,13 +2,13 @@
 #SCRIPT BY VENOMxCRAZY
   
 #Enter Your Bot Token here get it from @botfarher
-BOT_TOKEN=("7259034553:AAHYWdbEpMxeJAkv_HH1QYOChdMLMvot13E")
+BOT_TOKEN=("7201688855:AAECH5eKVzpAdedrnosC3DZxeTgHaTUxR84")
 
   #Enter Your telegram username here without @
-OWNER_USERNAME=("venomXcrazy")
+OWNER_USERNAME=("TC sanatan")
 
   #Enter your admin id here Get it from @missRose_bot by typing /info
-ADMIN_IDS=("5588464519")
+ADMIN_IDS=("7186024164")
 
 
 
